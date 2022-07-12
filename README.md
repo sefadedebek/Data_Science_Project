@@ -1,2 +1,2 @@
-# Data_Science_Project
+# Data Science Project
 In this project, data science roadmap was followed. In this project, mushroom dataset has been studied. Methods such as data visualization and data analysis were used. In this way, the questions were tried to be answered. The aim of this project is classifying mushrooms in matters of importance such as edibility and toxicity (being poisonous). In addition to this, it also seeks answers to the questions we have in mind regarding these issues.
